@@ -38,6 +38,6 @@ cd CryptoTradeLogger
 pip install -r requirements.txt
 
 # 3 — Run the logger (uses localhost:6379 by default)
-python CryptoTradeLogger.py
+python task.py
 
 
