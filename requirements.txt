@@ -1,0 +1,6 @@
+# Core libraries
+cryptofeed==6.1.0     # Real‑time crypto market data streams
+redis==5.0.1          # Redis client for Python
+nest_asyncio==1.6.0   # Allows asyncio event loop reuse (needed in notebooks/Colab)
+
+
